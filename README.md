@@ -1,4 +1,6 @@
 # Introduction
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FbenjaminSchilling33%2Fopcua.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FbenjaminSchilling33%2Fopcua?ref=badge_shield)
+
 
 This is an [OPC UA](https://opcfoundation.org/about/opc-technologies/opc-ua/) server / client API implementation for Rust.
 
@@ -26,6 +28,9 @@ Read the [change log](./CHANGELOG.md) for changes per version as well as aspirat
 # License
 
 The code is licenced under [MPL-2.0](https://opensource.org/licenses/MPL-2.0). Like all open source code, you use this code at your own risk. 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FbenjaminSchilling33%2Fopcua.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FbenjaminSchilling33%2Fopcua?ref=badge_large)
 
 # Setup
 
